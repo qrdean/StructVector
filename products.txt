@@ -1,0 +1,12 @@
+sku     price   description
+x223    14.99   Chia Pet(small)
+x224    14.99   Chia Pet(Medium)
+x225    14.99   Chia Pet(Large)
+x226    19.99   Clap-on clap-off(one fixture)
+x227    29.99   Clap-on clap-off(2 fixture)
+x228    39.99   Clap-on clap-off(3 fixtures)
+x229    99.99   Clap-on clap-off(Whole house)
+y227    29.99   star wars saber
+y228    39.99   Motion sensor light
+y2229   79.89   Cabbage patch doll
+y330    129.79  Water slide
